@@ -5,7 +5,7 @@ import Card from 'react-bootstrap/Card';
 const Cards = (val) => {
     const [Count, setcount] = useState(0);
     const handleclick = () => {
-        setcount(Count + 1);
+        setcount(Count + 70);
         console.log(Count);
         console.log("button clicked");
     }
