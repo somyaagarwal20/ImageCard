@@ -42,6 +42,31 @@
 .hello {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 20px;
 
+
+
+}
+
+.cardimg {
+  height: 200px;
+  width: 100px;
+  margin-left: 0px;
+
+}
+
+.bttn {
+  margin-left: 50px;
+  border-radius: 30px;
+
+}
+
+.title {
+  margin-left: 50px;
+
+}
+
+.description {
+  margin-left: 50px;
 
 }
